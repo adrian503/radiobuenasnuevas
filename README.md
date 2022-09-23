@@ -1,4 +1,3 @@
-# radiobuenasnuevas
 [playlist]
 numberofentries=1
 File1=http://108.178.57.196:8008/stream
